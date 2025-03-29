@@ -1,1 +1,2 @@
 # MINESWEEPER-IN-REINFORCEMENT-LEARNING
+Description: Developed an AI agent to solve the Minesweeper game using reinforcement learning techniques on the Apache Zeppelin platform. Implemented Q-Learning and Deep Q-Learning models to train the agent in making optimal moves while leveraging the Epsilon-Greedy strategy for exploration-exploitation trade-offs. Used Zeppelin for interactive visualization and real-time analysis of training progress.
